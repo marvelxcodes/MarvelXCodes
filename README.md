@@ -7,7 +7,8 @@ I'm a Passinate Tech Developer
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,prisma,sass,tailwindcss,bootstrap,react,nextjs,figma,redux,vercel" />
   </a>
 </p>
-<br>
+<h
+   r>
 
 ## Follow Me
 
