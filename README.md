@@ -1,6 +1,6 @@
 # Rama Krishnan
 <div align="center">
-<b>I'm a Passinate Developer from Tamil Nadu, India. 
+<b>I'm a Passinate Teenage Developer from Tamil Nadu, India. 
 I build Mobile & Web Apps in most of my pastime.</b>
 </div>
 <br>
