@@ -34,7 +34,7 @@ I build Mobile & Web Apps in most of my pastime.</b>
 
 <br>
 
-### Tools
+### Other Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,webpack,vite,nodejs,vercel,linux,bash,figma,git" />
 </p>
