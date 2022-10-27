@@ -1,7 +1,7 @@
 # Rama Krishnan
 <div align="center">
-<b>I'm a Passinate Teenage Developer from Tamil Nadu, India. 
-I build Mobile & Web Apps in most of my pastime.</b>
+<b>I'm a Passinated Developer from Tamil Nadu, India. 
+I build Mobile & Web Apps and Learning ML</b>
 </div>
 <br>
 <div align="center">
