@@ -1,6 +1,6 @@
 # Rama Krishnan
 <div align="center">
-<b>I'm a Passinated Developer from Tamil Nadu, India. 
+<b>I'm a Passinated Developer from India. 
 I build Mobile & Web Apps and Currently Learning ML & DL</b>
 </div>
 <br>
@@ -22,7 +22,7 @@ I build Mobile & Web Apps and Currently Learning ML & DL</b>
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,figma,redux,sass,tailwind,bootstrap,netlify" />
+  <img src="https://skillicons.dev/icons?i=svelte,react,nextjs,figma,redux,sass,tailwind,bootstrap,netlify" />
 </p>
 
 <br>
