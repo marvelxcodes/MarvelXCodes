@@ -6,7 +6,6 @@ I build Mobile & Web Apps and Currently Learning ML & DL</b>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvelxcodes&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=marvelxcodes&show_icons=true&theme=radical" />
 </div>
 <hr>
 
