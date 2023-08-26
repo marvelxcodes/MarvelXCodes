@@ -28,7 +28,7 @@ I build Mobile & Web Apps and Currently Learning ML & DL</b>
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,express,prisma,django,linux,mongodb,postgres,heroku" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,express,prisma,django,linux,mongodb,postgres,nestjs" />
 </p>
 
 <br>
