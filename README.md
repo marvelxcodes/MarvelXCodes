@@ -11,7 +11,7 @@ I build Mobile & Web Apps and Currently Learning ML & DL</b>
 
 ## :small_blue_diamond: Tech Stack
 
-### Languages
+**Languages**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,sass,python,rust,dart,mysql" />
@@ -19,21 +19,21 @@ I build Mobile & Web Apps and Currently Learning ML & DL</b>
 
 <br>
 
-### Frontend
+**Frontend**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=svelte,react,nextjs,figma,redux,sass,tailwind,bootstrap,astro" />
 </p>
 
 <br>
 
-### Backend
+**Backend**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,redis,express,prisma,django,linux,mongodb,postgres,nestjs" />
 </p>
 
 <br>
 
-### Other Tools
+**Other Tools**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,wasm,aws,nodejs,vercel,linux,bash,figma,git" />
 </p>
