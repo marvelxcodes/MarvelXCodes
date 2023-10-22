@@ -14,7 +14,7 @@ I build Mobile & Web Apps and Currently Learning ML & DL</b>
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,python,rust,dart,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,sass,python,rust,dart,mysql" />
 </p>
 
 <br>
