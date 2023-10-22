@@ -21,22 +21,19 @@ I build Mobile & Web Apps and Currently Learning ML & DL</b>
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=svelte,react,nextjs,figma,redux,sass,tailwind,bootstrap,netlify" />
+  <img src="https://skillicons.dev/icons?i=svelte,react,nextjs,figma,redux,sass,tailwind,bootstrap,astro" />
 </p>
 
 <br>
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,express,prisma,django,linux,mongodb,postgres,nestjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,redis,express,prisma,django,linux,mongodb,postgres,nestjs" />
 </p>
 
 <br>
 
 ### Other Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,webpack,vite,nodejs,vercel,linux,bash,figma,git" />
+  <img src="https://skillicons.dev/icons?i=vscode,wasm,aws,nodejs,vercel,linux,bash,figma,git" />
 </p>
-
-
-## Follow Me
